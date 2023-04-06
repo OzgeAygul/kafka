@@ -6,7 +6,7 @@ comment to ping reviewers.*
 *Summary of testing strategy (including rationale)
 for the feature or bug fix. Unit and/or integration
 tests are expected for any behaviour change and
-system tests should be considered for larger changes.*
+system tests should be considered for larger changes.* This is a change
 
 ### Committer Checklist (excluded from commit message)
 - [ ] Verify design and implementation 
